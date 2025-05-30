@@ -76,18 +76,3 @@ npm install
 # Start the development server
 npm run dev
 ```
-
-🧑‍🏫 Usage
-Select an algorithm category from the main navigation (e.g., Sorting, Graphs, Trees).
-Pick an algorithm from the available options.
-Optionally configure parameters (e.g., number of nodes, array size).
-Click "Start" to launch the visualization.
-Use the controls to pause, reset, or change animation speed.
-
-🤝 Contributing
-Contributions are welcome! To contribute:
-Fork the repository
-Create a new branch (git checkout -b feature-name)
-Commit your changes (git commit -m "Add feature")
-Push to the branch (git push origin feature-name)
-Submit a Pull Request
